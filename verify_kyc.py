@@ -15,6 +15,7 @@ from pyaadhaar.decode import AadhaarSecureQr
 from deepface import DeepFace
 from datetime import datetime
 
+print("hello render")
 # # Defining tesserct Path
 # cwd = os.getcwd()
 # relative_path = "tesseract_OCR"
