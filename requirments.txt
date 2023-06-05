@@ -1,7 +1,0 @@
-pytesseract 
-Pillow 
-numpy 
-opencv-python 
-pyzbar 
-pyaadhaar 
-deepface
